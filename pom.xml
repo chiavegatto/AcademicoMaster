@@ -7,8 +7,8 @@
 	<packaging>pom</packaging>
 	
 	<modules>
-		<module>../sistema-academico</module>
-		<module>../sistema-academico-test</module>
+		<module>sistema-academico</module>
+		<module>sistema-academico-test</module>
 	</modules>
 	
 	<properties>
